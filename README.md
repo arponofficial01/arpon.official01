@@ -1,469 +1,501 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=ARPON%20CHAKRABORTY&fontAlign=50&fontAlignY=38&desc=Starting%20from%20zero.%20Building%20toward%20a%20global%20tech%20career.&descAlign=50&descAlignY=60&animation=fadeIn&fontSize=42&descSize=18&section=header" width="100%"/>
+<img src="./assets/arpon-profile.jpg" width="190" alt="Arpon Chakraborty"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=850&lines=Computer+Science+Journey;Bangladesh+%E2%86%92+Malaysia+%E2%86%92+Canada;Learning+%E2%86%92+Building+%E2%86%92+Contributing;Documenting+the+journey+in+public" />
+# 𝐀𝐑𝐏𝐎𝐍 𝐂𝐇𝐀𝐊𝐑𝐀𝐁𝐎𝐑𝐓𝐘
+
+### `STARTING FROM ZERO · BUILDING TOWARD THE GLOBAL TECH WORLD`
+
+<br>
+
+<a href="https://github.com/arponofficial01">
+<img src="https://skillicons.dev/icons?i=github" width="42"/>
+</a>&nbsp;
+<a href="YOUR_LINKEDIN_LINK">
+<img src="https://skillicons.dev/icons?i=linkedin" width="42"/>
+</a>&nbsp;
+<a href="https://instagram.com/arpon.official01">
+<img src="https://skillicons.dev/icons?i=instagram" width="42"/>
+</a>&nbsp;
+<a href="https://facebook.com/arpon.official01">
+<img src="https://skillicons.dev/icons?i=facebook" width="42"/>
+</a>&nbsp;
+<a href="https://youtube.com/@arpon.official01">
+<img src="https://skillicons.dev/icons?i=youtube" width="42"/>
+</a>&nbsp;
+<a href="https://tiktok.com/@arpon.official01">
+<img src="https://skillicons.dev/icons?i=tiktok" width="42"/>
+</a>&nbsp;
+<a href="https://x.com/arpon.official01">
+<img src="https://skillicons.dev/icons?i=twitter" width="42"/>
+</a>&nbsp;
+<a href="YOUR_DISCORD_LINK">
+<img src="https://skillicons.dev/icons?i=discord" width="42"/>
+</a>
 
 <br><br>
 
-### 🇧🇩 Bangladesh   →   🇲🇾 Malaysia   →   🇨🇦 Canada
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=900&color=6E7681&center=true&vCenter=true&width=850&lines=Computer+Science+Journey;Bangladesh+%E2%86%92+Malaysia+%E2%86%92+Canada;Learn+%E2%86%92+Build+%E2%86%92+Contribute;Documenting+the+journey+in+public" />
+
+<br><br>
+
+`🇧🇩 BANGLADESH`   **→**   `🇲🇾 MALAYSIA`   **→**   `🇨🇦 CANADA`
 
 **SSC 2026 · GPA 5.00 · Science**
 
 **INTI ADTP · Computer Science · Target**
 
-<br>
+</div>
 
-<a href="YOUR_LINKEDIN_LINK"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="YOUR_DISCORD_LINK"><img src="https://img.shields.io/badge/Discord-Connect-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a> <a href="https://instagram.com/arpon.official01"><img src="https://img.shields.io/badge/Instagram-@arpon.official01-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> <a href="https://facebook.com/arpon.official01"><img src="https://img.shields.io/badge/Facebook-@arpon.official01-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+---
 
-<br>
+<div align="center">
 
-<a href="https://youtube.com/@arpon.official01"><img src="https://img.shields.io/badge/YouTube-@arpon.official01-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a> <a href="https://tiktok.com/@arpon.official01"><img src="https://img.shields.io/badge/TikTok-@arpon.official01-000000?style=for-the-badge&logo=tiktok&logoColor=white"/></a> <a href="https://x.com/arpon.official01"><img src="https://img.shields.io/badge/X-@arpon.official01-000000?style=for-the-badge&logo=x&logoColor=white"/></a> <a href="https://github.com/arponofficial01"><img src="https://img.shields.io/badge/GitHub-@arponofficial01-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+# `01` — WHO I AM
 
-<br><br>
+### **A student at the beginning of a very long technical journey.**
 
-<img src="https://komarev.com/ghpvc/?username=arponofficial01&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS"/>
+</div>
+
+I'm **Arpon Chakraborty**, from Bangladesh.
+
+I recently completed my **SSC in 2026 with GPA 5.00**, from the **Science group**.
+
+My next academic target is **INTI International University, Malaysia**, where I plan to begin the **American Degree Transfer Program (ADTP) in Computer Science**.
+
+The long-term direction is toward **Canada** and, eventually, a career in the global technology ecosystem.
+
+But there is one thing I want this profile to make completely clear:
+
+> ### **I haven't started Computer Science yet.**
+
+I'm starting from the beginning.
+
+This GitHub is not here to make me look experienced.
+
+**It is here to prove the experience as it happens.**
+
+---
+
+<div align="center">
+
+### `THE BEGINNING`
+
+**SSC 2026**
+
+`GPA 5.00`
+
+`SCIENCE`
+
+↓
+
+### `THE NEXT CHAPTER`
+
+**INTI International University**
+
+`ADTP`
+
+`COMPUTER SCIENCE`
+
+↓
+
+### `THE WORK`
+
+`LEARN`
+
+`BUILD`
+
+`BREAK`
+
+`DEBUG`
+
+`IMPROVE`
+
+↓
+
+### `THE DIRECTION`
+
+**CANADA**
+
+↓
+
+### `THE VISION`
+
+**GLOBAL TECHNOLOGY CAREER**
 
 </div>
 
 ---
 
-# `01` · ABOUT
+# `02` — THE STORY
 
-<img align="right" width="300" src="https://github-readme-stats.vercel.app/api?username=arponofficial01&show_icons=true&hide_border=true&rank_icon=github&theme=transparent"/>
+## 🇧🇩 Chapter One — Bangladesh
 
-### Hey, I'm Arpon 👋
+I completed my **Secondary School Certificate (SSC)** in 2026.
 
-I'm **Arpon Chakraborty**, a student from **Bangladesh** beginning a long-term journey into **Computer Science, software development, and the global technology ecosystem**.
+|                   |                      |
+| :---------------- | :------------------- |
+| 🎓 Qualification  | **SSC**              |
+| 📅 Year           | **2026**             |
+| 🔬 Group          | **Science**          |
+| 🏆 Result         | **GPA 5.00 / 5.00**  |
+| 💻 Next direction | **Computer Science** |
 
-I completed my **SSC in 2026 with GPA 5.00**, from the **Science group**.
+This is where the technical story begins.
 
-My next academic target is:
+Not with years of programming experience.
 
-### 🇲🇾 INTI International University
+Not with a huge portfolio.
 
-**American Degree Transfer Program (ADTP)**
-**Computer Science**
-
-with a long-term direction toward:
-
-### 🇨🇦 Canada
-
-**Academic progression → technical growth → global technology career**
-
-<br clear="right"/>
-
-> **I'm starting Computer Science from zero.**
->
-> This profile isn't designed to make me look experienced.
-> It's designed to show how I become experienced.
+With an academic foundation — and a decision to start learning.
 
 ---
 
-# `02` · THE STARTING POINT
+# `03` — THE NEXT CHAPTER
 
 <div align="center">
 
-|  🇧🇩 COUNTRY  | 🎓 QUALIFICATION |  📅 YEAR |   🔬 GROUP  |   🏆 RESULT  |
-| :------------: | :--------------: | :------: | :---------: | :----------: |
-| **Bangladesh** |      **SSC**     | **2026** | **Science** | **GPA 5.00** |
+## 🇲🇾 INTI INTERNATIONAL UNIVERSITY
+
+### **American Degree Transfer Program**
+
+### `COMPUTER SCIENCE`
+
+**Credit Transfer Pathway → Canada**
 
 </div>
 
-<br>
+My immediate academic objective is to begin Computer Science at INTI, develop strong fundamentals, build practical skills, and use the experience to prepare for the next stage of my academic journey.
 
-### From here, everything is new.
+The goal isn't simply to collect credentials.
 
-I'm about to move from an academic foundation into an entirely new discipline:
-
-**Computer Science.**
-
-That means learning programming, understanding how computers work, solving problems, building software, and gradually developing the ability to create things independently.
+### **Build the foundation. Then make the foundation useful.**
 
 ---
 
-# `03` · THE MISSION
+# `04` — FROM ZERO
 
 <div align="center">
 
-### FROM
+### I DON'T HAVE A TECHNICAL PORTFOLIO YET.
 
-`Student with an academic foundation`
-
-### TO
-
-`Computer Science Student`
-
-### TO
-
-`Software Builder`
-
-### TO
-
-`Open-Source Contributor`
-
-### TO
-
-`Global Technology Professional`
+### THAT'S EXACTLY WHY THIS PROFILE EXISTS.
 
 </div>
-
----
-
-# `04` · THE ROADMAP
-
-<div align="center">
 
 ```text
-╭──────────────────────────────────────────────────────────╮
-│                                                          │
-│  🇧🇩  BANGLADESH                                        │
-│      SSC 2026 · GPA 5.00                                │
-│                         │                                │
-│                         ▼                                │
-│  🇲🇾  MALAYSIA                                          │
-│      INTI International University                      │
-│      ADTP · Computer Science                            │
-│                         │                                │
-│                         ▼                                │
-│  💻  COMPUTER SCIENCE                                    │
-│      Learn · Practice · Build · Experiment               │
-│                         │                                │
-│                         ▼                                │
-│  🚀  SOFTWARE                                           │
-│      Projects · Products · Open Source                   │
-│                         │                                │
-│                         ▼                                │
-│  🇨🇦  CANADA                                            │
-│      Long-term academic / degree direction              │
-│                         │                                │
-│                         ▼                                │
-│  🌎  GLOBAL TECH CAREER                                  │
-│                                                          │
-╰──────────────────────────────────────────────────────────╯
+COMPUTER SCIENCE       ░░░░░░░░░░░░░░░░░░░░  BEGINNING
+PROGRAMMING            ░░░░░░░░░░░░░░░░░░░░  BEGINNING
+ALGORITHMS             ░░░░░░░░░░░░░░░░░░░░  BEGINNING
+SOFTWARE DEVELOPMENT   ░░░░░░░░░░░░░░░░░░░░  BEGINNING
+OPEN SOURCE            ░░░░░░░░░░░░░░░░░░░░  BEGINNING
+REAL PROJECTS          ░░░░░░░░░░░░░░░░░░░░  BEGINNING
 ```
 
-</div>
+I don't want to pretend these bars are already full.
 
-> **The destination is long-term. The next step is immediate: start learning.**
+I want future commits, repositories, projects, contributions, and experience to fill them.
 
----
-
-# `05` · WHY THIS GITHUB EXISTS
-
-This isn't just a portfolio.
-
-It's a **public record of the journey**.
-
-### 📂 What will eventually live here
-
-| Area                 | What you'll find                      |
-| -------------------- | ------------------------------------- |
-| 🧠 **Learning**      | CS concepts, notes & experiments      |
-| 💻 **Code**          | Programs and practical exercises      |
-| 🚀 **Projects**      | Applications I actually build         |
-| 🧪 **Experiments**   | Ideas, tests & prototypes             |
-| 📝 **Documentation** | What I learn and how I solve problems |
-| 🤝 **Open Source**   | Contributions beyond my own projects  |
-| 🌎 **Journey**       | Study-abroad & technology progression |
+### **Day 1 should remain visible.**
 
 ---
 
-# `06` · STARTING FROM ZERO
-
-### No experience to fake.
-
-### No portfolio to exaggerate.
-
-### No “expert” label before earning it.
-
-Right now:
-
-```text
-Computer Science       ░░░░░░░░░░░░░░░░░░░░  STARTING
-Programming            ░░░░░░░░░░░░░░░░░░░░  STARTING
-Algorithms             ░░░░░░░░░░░░░░░░░░░░  STARTING
-Software Development   ░░░░░░░░░░░░░░░░░░░░  STARTING
-Open Source            ░░░░░░░░░░░░░░░░░░░░  STARTING
-Real Projects          ░░░░░░░░░░░░░░░░░░░░  STARTING
-```
-
-And that's the point.
-
-### I want this graph to change because I changed.
-
----
-
-# `07` · THE LEARNING SYSTEM
+# `05` — WHAT I'M BUILDING TOWARD
 
 <div align="center">
 
-### `LEARN`
-
-↓
-
-### `UNDERSTAND`
-
-↓
-
-### `PRACTICE`
-
-↓
-
-### `BUILD`
-
-↓
-
-### `BREAK`
-
-↓
-
-### `DEBUG`
-
-↓
-
-### `IMPROVE`
-
-↓
-
-### `REPEAT`
+|     🧠 THINK    |   💻 BUILD   |    🤝 CONTRIBUTE    |          🌎 GROW         |
+| :-------------: | :----------: | :-----------------: | :----------------------: |
+| CS Fundamentals |   Software   |     Open Source     |       Global Career      |
+| Problem Solving | Applications |    Collaboration    | International Experience |
+|    Algorithms   |   Products   | Developer Ecosystem |    Continuous Learning   |
 
 </div>
 
-### My rule
+My technical foundation will gradually cover:
 
-> **Don't just learn the syntax. Understand the system behind it.**
+### 🧠 Computer Science
 
----
-
-# `08` · COMPUTER SCIENCE
-
-My first priority will be building fundamentals.
-
-### 🧩 Core Concepts
-
-* Programming fundamentals
-* Computational thinking
-* Data Structures
-* Algorithms
-* Object-Oriented Programming
-* Computer Architecture
-* Operating Systems
-* Computer Networks
-* Databases
-* Software Engineering
-* Problem Solving
+`Programming` · `Data Structures` · `Algorithms` · `OOP` · `Architecture` · `Operating Systems` · `Networks` · `Databases` · `Software Engineering`
 
 ### 💻 Development
 
-* Version Control
-* Web Development
-* Frontend
-* Backend
-* APIs
-* Databases
-* Authentication
-* Deployment
-* Testing
-* Debugging
-* Documentation
+`Git` · `GitHub` · `Web Development` · `Frontend` · `Backend` · `APIs` · `Authentication` · `Testing` · `Deployment` · `Debugging`
+
+### 🌐 Engineering Mindset
+
+`Problem Solving` · `Documentation` · `Clean Code` · `Version Control` · `System Thinking` · `Continuous Improvement`
 
 ---
 
-# `09` · TECHNOLOGY STACK
-
-### Exploring progressively
+# `06` — TECHNOLOGY
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,java,html,css,js,git,github,vscode,linux,react,nodejs,mongodb,postgresql&perline=7" />
+<img src="https://skillicons.dev/icons?i=python,cpp,java,html,css,js,git,github,vscode,linux,react,nodejs,mongodb,postgresql&perline=8"/>
 
 </div>
 
 <br>
 
-> **These represent technologies I plan to explore as I progress — not technologies I'm claiming professional proficiency in today.**
+These are **technologies I expect to explore progressively**, not a claim that I already have professional proficiency in all of them.
 
-My philosophy:
+The actual stack will evolve naturally with what I learn and what I build.
 
-**Learn → Use → Build → Keep**
+### `LEARN → USE → BUILD → UNDERSTAND → KEEP`
 
 ---
 
-# `10` · BUILDING IN PUBLIC
+# `07` — MY LEARNING LOOP
 
-### The repository history should tell the story.
+<div align="center">
 
 ```text
-FIRST CODE
-    ↓
+                    ┌──────────────┐
+                    │    LEARN     │
+                    └──────┬───────┘
+                           ↓
+                    ┌──────────────┐
+                    │  UNDERSTAND  │
+                    └──────┬───────┘
+                           ↓
+                    ┌──────────────┐
+                    │   PRACTICE   │
+                    └──────┬───────┘
+                           ↓
+                    ┌──────────────┐
+                    │    BUILD     │
+                    └──────┬───────┘
+                           ↓
+                    ┌──────────────┐
+                    │    BREAK     │
+                    └──────┬───────┘
+                           ↓
+                    ┌──────────────┐
+                    │    DEBUG     │
+                    └──────┬───────┘
+                           ↓
+                    ┌──────────────┐
+                    │   IMPROVE    │
+                    └──────┬───────┘
+                           │
+                           └──────────→ REPEAT
+```
+
+### **Don't just memorize syntax. Understand what is happening underneath.**
+
+</div>
+
+---
+
+# `08` — THE BUILDING PHILOSOPHY
+
+I want my repositories to show **progress rather than perfection**.
+
+```text
+FIRST LINE OF CODE
+        ↓
 FIRST PROGRAM
-    ↓
+        ↓
 FIRST BUG
-    ↓
-FIRST FIX
-    ↓
-FIRST PROJECT
-    ↓
+        ↓
+FIRST DEBUGGING SESSION
+        ↓
+FIRST USEFUL SCRIPT
+        ↓
+FIRST WEB PROJECT
+        ↓
+FIRST APPLICATION
+        ↓
 FIRST DEPLOYMENT
-    ↓
-FIRST CONTRIBUTION
-    ↓
-FIRST REAL PRODUCT
+        ↓
+FIRST OPEN-SOURCE CONTRIBUTION
+        ↓
+FIRST SERIOUS PROJECT
+        ↓
+REAL SOFTWARE
 ```
 
-The early repositories may be simple.
+Every stage matters.
 
-That's okay.
+The beginner repositories won't be embarrassing parts of the profile.
 
-They're supposed to show the beginning.
+### **They'll be evidence of where the journey started.**
 
 ---
 
-# `11` · PROJECTS
+# `09` — PROJECTS
 
 <div align="center">
 
-### 🚧 BUILDING THE FIRST CHAPTER
+### `NO FAKE PORTFOLIO · ONLY EARNED PROJECTS`
 
 </div>
 
-| Project                  | Purpose                        | Status |
-| ------------------------ | ------------------------------ | :----: |
-| 🧩 First Program         | Learn programming fundamentals |   🔜   |
-| 🌐 First Web Project     | Learn the web                  |   🔜   |
-| ⚙️ First Application     | Build something useful         |   🔜   |
-| 🗄️ Database Project     | Understand data & backend      |   🔜   |
-| 🤖 Technology Experiment | Explore new ideas              |   🔜   |
-| 🚀 Major Project         | End-to-end development         |   🔜   |
-| 🌎 Open Source           | Contribute to real projects    |   🔜   |
+| Project              | Purpose                    |  Status  |
+| :------------------- | :------------------------- | :------: |
+| 🧩 First Program     | Programming fundamentals   | `COMING` |
+| 🛠️ Utility Project  | Solve a real small problem | `COMING` |
+| 🌐 First Web Project | Learn web fundamentals     | `COMING` |
+| ⚙️ First Application | Build something useful     | `COMING` |
+| 🗄️ Database Project | Understand data & backend  | `COMING` |
+| 🚀 Major Project     | End-to-end development     | `COMING` |
+| 🤝 Open Source       | Work with real communities | `COMING` |
 
-### These aren't placeholders forever.
+### This table will change.
 
-They are milestones waiting to be earned.
+Not because I edit the README.
 
----
-
-# `12` · PROJECT EVOLUTION
-
-As the journey progresses, this section will transform from:
-
-```text
-BEGINNER PROJECTS
-```
-
-into:
-
-```text
-PRACTICAL APPLICATIONS
-```
-
-then:
-
-```text
-PRODUCTION-STYLE SOFTWARE
-```
-
-and eventually:
-
-```text
-REAL PRODUCTS
-```
-
-The repositories will do the talking.
+Because I build things.
 
 ---
 
-# `13` · STUDY ABROAD × TECH
-
-Technology is one half of the journey.
-
-International education is the other.
-
-### 🇧🇩 Bangladesh
-
-**SSC 2026 · GPA 5.00**
-
-↓
-
-### 🇲🇾 Malaysia
-
-**INTI · ADTP · Computer Science**
-
-↓
-
-### 💻 Technical Growth
-
-**Programming · CS · Projects · Open Source**
-
-↓
-
-### 🇨🇦 Canada
-
-**Long-term academic / degree pathway**
-
-↓
-
-### 🌎 Global Technology
-
-**Experience · Innovation · Career**
-
----
-
-## What I'll document
-
-🎓 University research
-📄 Applications
-🛂 Visa / EMGS journey
-✈️ Moving abroad
-🏫 Student life
-💻 Starting CS
-📚 Academic development
-🧑‍💻 Technical growth
-🚀 Projects
-🌎 International career preparation
-
----
-
-# `14` · ROADMAP
+# `10` — PROJECT EVOLUTION
 
 <div align="center">
 
-|      | STAGE                 | FOCUS                         |
-| :--: | :-------------------- | :---------------------------- |
-| 🇧🇩 | **01 · FOUNDATION**   | SSC 2026 · GPA 5.00           |
-| 🇲🇾 | **02 · EDUCATION**    | INTI ADTP · Computer Science  |
-|  💻  | **03 · LEARNING**     | Programming · CS Fundamentals |
-|  🏗️ | **04 · BUILDING**     | Projects · Applications       |
-|  🤝  | **05 · CONTRIBUTING** | Open Source                   |
-| 🇨🇦 | **06 · PROGRESSION**  | Canada · Academic Journey     |
-|  🌎  | **07 · CAREER**       | Global Technology             |
+```text
+        BEGINNER
+           │
+           ▼
+      EXPERIMENTS
+           │
+           ▼
+   PRACTICAL PROJECTS
+           │
+           ▼
+   REAL APPLICATIONS
+           │
+           ▼
+ PRODUCTION-STYLE SOFTWARE
+           │
+           ▼
+      REAL PRODUCTS
+```
+
+</div>
+
+The objective isn't to rush toward complicated projects.
+
+It's to become capable of building them.
+
+---
+
+# `11` — OPEN SOURCE JOURNAL
+
+This profile is intended to become an **open-source journal of my development as a Computer Science student and builder**.
+
+### 📁 Repositories
+
+Projects I actually create.
+
+### 🧪 Experiments
+
+Things I test, break, rebuild, and learn from.
+
+### 📝 Notes
+
+Concepts and lessons worth documenting.
+
+### 🔧 Tools
+
+Small utilities that solve actual problems.
+
+### 🤝 Contributions
+
+My progression from reading other people's code to contributing to it.
+
+### 📈 History
+
+The commit history becomes part of the story.
+
+---
+
+# `12` — STUDY ABROAD × TECH
+
+The technology journey doesn't exist separately from the academic journey.
+
+They grow together.
+
+```text
+🇧🇩 BANGLADESH
+      │
+      │ SSC 2026
+      │ GPA 5.00
+      ▼
+🇲🇾 MALAYSIA
+      │
+      │ INTI ADTP
+      │ Computer Science
+      ▼
+💻 TECHNICAL FOUNDATION
+      │
+      │ Programming
+      │ CS
+      │ Projects
+      │ Open Source
+      ▼
+🇨🇦 CANADA
+      │
+      │ Long-term academic direction
+      ▼
+🌎 GLOBAL TECH
+```
+
+Along the way, I'll document the real process:
+
+* 🎓 University research
+* 📄 Applications
+* 🛂 Student visa / EMGS process
+* ✈️ Moving abroad
+* 🏫 Student life
+* 📚 Academic development
+* 💻 Starting Computer Science
+* 🧑‍💻 Technical growth
+* 🚀 Projects
+* 🌎 International career preparation
+
+---
+
+# `13` — THE ROADMAP
+
+<div align="center">
+
+|   STAGE   | DIRECTION         | FOCUS                        |
+| :-------: | :---------------- | :--------------------------- |
+| 🇧🇩 `01` | **SSC 2026**      | Academic foundation          |
+| 🇲🇾 `02` | **INTI ADTP**     | Begin Computer Science       |
+|  🧠 `03`  | **CS Foundation** | Programming + fundamentals   |
+|  💻 `04`  | **Building**      | Real projects                |
+|  🤝 `05`  | **Open Source**   | Collaboration + contribution |
+| 🇨🇦 `06` | **Canada**        | Continue academic journey    |
+|  🌎 `07`  | **Global Tech**   | Long-term career             |
 
 </div>
 
 ---
 
-# `15` · GOALS
+# `14` — GOALS
 
 ### 🎓 Academic
 
 * [ ] Begin Computer Science
-* [ ] Build a strong academic foundation
+* [ ] Build strong fundamentals
 * [ ] Maintain strong academic performance
 * [ ] Progress through the intended pathway
 * [ ] Continue toward Canada
 
 ### 💻 Technical
 
-* [ ] Learn programming from fundamentals
-* [ ] Understand core CS concepts
+* [ ] Learn programming properly
+* [ ] Understand core Computer Science
+* [ ] Become strong at problem solving
 * [ ] Build real applications
 * [ ] Learn software engineering
 * [ ] Contribute to open source
 * [ ] Build production-quality software
-* [ ] Develop a strong technical portfolio
 
 ### 🌎 Long Term
 
@@ -473,15 +505,23 @@ International education is the other.
 * [ ] Contribute to the developer ecosystem
 * [ ] Establish a global technology career
 
+### 🧠 Personal
+
+* [ ] Stay consistent
+* [ ] Document the process
+* [ ] Build discipline
+* [ ] Keep learning
+* [ ] Think long term
+
 ---
 
-# `16` · GITHUB ACTIVITY
+# `15` — GITHUB ACTIVITY
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=arponofficial01&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=arponofficial01&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent" height="175"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arponofficial01&layout=compact&hide_border=true&theme=transparent" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arponofficial01&layout=compact&hide_border=true&theme=transparent" height="175"/>
 
 <br><br>
 
@@ -491,29 +531,29 @@ International education is the other.
 
 ---
 
-# `17` · CURRENT STATUS
+# `16` — CURRENTLY
 
 <div align="center">
 
-### 🟢 CURRENTLY
+### 🟢 STATUS
 
-**Preparing for the Computer Science journey**
+`PREPARING FOR COMPUTER SCIENCE`
 
 ### 📍 BASE
 
-**🇧🇩 Bangladesh**
+`🇧🇩 BANGLADESH`
 
 ### 🎓 NEXT
 
-**🇲🇾 INTI · ADTP · Computer Science**
+`🇲🇾 INTI · ADTP · COMPUTER SCIENCE`
 
-### 🎯 LONG TERM
+### 🧭 LONG-TERM DIRECTION
 
-**🇨🇦 Canada · Global Technology Career**
+`🇨🇦 CANADA`
 
-### 🧠 MINDSET
+### 🧠 PRINCIPLE
 
-**Discipline > Motivation**
+`DISCIPLINE > MOTIVATION`
 
 </div>
 
@@ -521,15 +561,23 @@ International education is the other.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&animation=fadeIn" width="100%"/>
+# `THE PROFILE WILL CHANGE.`
 
-# `STARTING FROM ZERO DOESN'T MEAN STAYING THERE.`
+### Not because the words change.
 
-### Learn. Build. Contribute. Grow.
+### Because **I will.**
+
+<br>
+
+`LEARN` → `BUILD` → `CONTRIBUTE` → `GROW`
+
+<br>
 
 **🇧🇩 Bangladesh → 🇲🇾 Malaysia → 🇨🇦 Canada → 🌎 Global Tech**
 
 <br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 **© Arpon Chakraborty**
 
