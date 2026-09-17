@@ -1,66 +1,45 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050505,45:111827,75:0F172A,100:050505&text=ARPON%20CHAKRABORTY&fontSize=48&fontColor=FFFFFF&fontAlignY=38&animation=twinkling&desc=COMPUTER%20SCIENCE%20%7C%20BUILDING%20%7C%20LEARNING&descSize=15&descAlignY=58&descColor=94A3B8"/>
+<a href="https://github.com/arpon.official01">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:050505,35:0b0b0c,65:17110b,100:050505&text=ARPON%20CHAKRABORTY&fontSize=48&fontColor=F6F1E8&fontAlignY=38&animation=twinkling&desc=COMPUTER%20SCIENCE%20%2F%20BUILDING%20%2F%20LEARNING%20%2F%20GROWING&descSize=14&descAlignY=59&descColor=C9B79C" />
+</a>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2600&pause=1000&color=D8B07A&center=true&vCenter=true&width=760&lines=Computer+Science+Student;Building+the+Foundation;Learning+Through+Real+Projects;Bangladesh+%E2%86%92+Malaysia+%E2%86%92+Canada" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Computer+Science+Student;Building+the+Foundation;Learning+Through+Real+Projects;Bangladesh+%E2%86%92+Malaysia+%E2%86%92+Canada" />
-
-<br><br>
-
-<a href="https://github.com/arpon.official01">
-<img src="https://img.shields.io/badge/GITHUB-arpon.official01-0B0F14?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-</a>
-&nbsp;
-<a href="https://instagram.com/arpon.official01">
-<img src="https://img.shields.io/badge/INSTAGRAM-arpon.official01-0B0F14?style=for-the-badge&logo=instagram&logoColor=FFFFFF"/>
-</a>
-&nbsp;
-<a href="https://x.com/arponofficial01">
-<img src="https://img.shields.io/badge/X-arponofficial01-0B0F14?style=for-the-badge&logo=x&logoColor=FFFFFF"/>
-</a>
-&nbsp;
-<a href="https://t.me/arponofficial01">
-<img src="https://img.shields.io/badge/TELEGRAM-arponofficial01-0B0F14?style=for-the-badge&logo=telegram&logoColor=FFFFFF"/>
-</a>
+<a href="https://github.com/arpon.official01"><img src="https://img.shields.io/badge/GitHub-arpon.official01-111111?style=for-the-badge&logo=github&logoColor=F6F1E8" /></a>
+<a href="https://instagram.com/arpon.official01"><img src="https://img.shields.io/badge/Instagram-arpon.official01-111111?style=for-the-badge&logo=instagram&logoColor=F6F1E8" /></a>
+<a href="https://x.com/arponofficial01"><img src="https://img.shields.io/badge/X-arponofficial01-111111?style=for-the-badge&logo=x&logoColor=F6F1E8" /></a>
+<a href="https://t.me/arponofficial01"><img src="https://img.shields.io/badge/Telegram-arponofficial01-111111?style=for-the-badge&logo=telegram&logoColor=F6F1E8" /></a>
 
 </div>
-
-<br>
 
 ---
 
-<div align="center">
-
-### `01` — PROFILE
-
-</div>
-
 <table>
 <tr>
-<td width="60%">
+<td width="33%" align="center" valign="middle">
 
-### Hello, I'm Arpon.
-
-I'm a Computer Science student from **Bangladesh**, focused on developing strong technical foundations and turning what I learn into practical work.
-
-I completed **SSC'26 with GPA 5.00** and am preparing for **Computer Science through the American Degree Transfer Program at INTI International University, Kuala Lumpur**.
-
-My long-term academic direction is **Canada**, with the goal of developing a global career in technology.
+<img src="./assets/arpon.jpg" width="250" alt="Arpon Chakraborty" />
 
 </td>
+<td width="67%" valign="middle">
 
-<td width="40%">
+## ARPON CHAKRABORTY
 
-```text
-STATUS
-────────────────
-🎓  Computer Science
-📍  Bangladesh
-🇲🇾  INTI • Kuala Lumpur
-🌎  Canada • Future Path
-🚀  Building in Public
-```
+**Computer Science • Building • Learning • Growing**
+
+I’m a Computer Science student from **Bangladesh**, focused on building strong technical foundations and turning what I learn into practical work.
+
+**SSC'26 · GPA 5.00**  
+Preparing for **Computer Science through the American Degree Transfer Program (ADTP) at INTI International University, Kuala Lumpur.**
+
+Long-term academic direction: **Canada**.
+
+<br>
+
+> **Discipline > Motivation**
 
 </td>
 </tr>
@@ -70,105 +49,118 @@ STATUS
 
 <div align="center">
 
-### `02` — CURRENT DIRECTION
-
-<img src="https://img.shields.io/badge/COMPUTER%20SCIENCE-0F172A?style=for-the-badge&logoColor=38BDF8"/>
-<img src="https://img.shields.io/badge/PROGRAMMING-0F172A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SOFTWARE-0F172A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI-0F172A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PROJECTS-0F172A?style=for-the-badge"/>
-
-<br><br>
+### `01` — CURRENT DIRECTION
 
 <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode&theme=dark" />
 
 </div>
 
----
-
-<div align="center">
-
-### `03` — THE PATH
-
-</div>
-
-```text
-                         THE JOURNEY
-
-       🇧🇩 BANGLADESH
-              │
-              │  SSC'26
-              │  GPA 5.00
-              ▼
-       ┌──────────────────┐
-       │     MALAYSIA     │
-       │                  │
-       │  INTI University │
-       │  Computer Science│
-       │      ADTP        │
-       └────────┬─────────┘
-                │
-                │  Build • Learn • Transfer
-                ▼
-       ┌──────────────────┐
-       │      CANADA      │
-       │                  │
-       │  Bachelor's Path │
-       │  Global Tech     │
-       └──────────────────┘
-```
-
----
-
-<div align="center">
-
-### `04` — GITHUB ACTIVITY
-
-<img src="https://github-readme-stats.vercel.app/api?username=arpon.official01&show_icons=true&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=94A3B8&icon_color=38BDF8&rank_icon=github" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpon.official01&layout=compact&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=94A3B8" height="180"/>
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=arpon.official01&hide_border=true&background=00000000&ring=38BDF8&fire=38BDF8&currStreakLabel=FFFFFF&sideLabels=94A3B8&dates=64748B" />
-
-</div>
-
----
-
-<div align="center">
-
-### `05` — BUILDING
-
-</div>
-
 <table>
 <tr>
-<td width="33%" align="center">
+<td width="25%" align="center">
 
-### ◈ Learn
-
-Build strong fundamentals and understand the technology behind the tools.
-
-</td>
-
-<td width="33%" align="center">
-
-### ◇ Build
-
-Turn knowledge into real projects, experiments and useful software.
+**COMPUTER SCIENCE**  
+Foundations
 
 </td>
+<td width="25%" align="center">
 
-<td width="33%" align="center">
+**SOFTWARE**  
+Building
 
-### ◆ Evolve
+</td>
+<td width="25%" align="center">
 
-Review, improve, document and keep moving forward.
+**AI**  
+Exploring
+
+</td>
+<td width="25%" align="center">
+
+**PROJECTS**  
+Shipping
 
 </td>
 </tr>
 </table>
+
+---
+
+<div align="center">
+
+### `02` — THE PATH
+
+```text
+🇧🇩 BANGLADESH
+      │
+      │  SSC'26 · GPA 5.00
+      ▼
+🇲🇾 KUALA LUMPUR
+      │
+      │  INTI International University
+      │  Computer Science · ADTP
+      ▼
+🇨🇦 CANADA
+      │
+      │  Long-term Bachelor's pathway
+      ▼
+🌐 GLOBAL TECHNOLOGY CAREER
+```
+
+</div>
+
+---
+
+<div align="center">
+
+### `03` — GITHUB ACTIVITY
+
+<img src="https://github-readme-stats.vercel.app/api?username=arpon.official01&show_icons=true&hide_border=true&bg_color=00000000&title_color=F6F1E8&text_color=A8A29E&icon_color=D8B07A&rank_icon=github" height="180" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpon.official01&layout=compact&hide_border=true&bg_color=00000000&title_color=F6F1E8&text_color=A8A29E" height="180" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=arpon.official01&hide_border=true&background=00000000&ring=D8B07A&fire=D8B07A&currStreakLabel=F6F1E8&sideLabels=A8A29E&dates=78716C" />
+
+</div>
+
+---
+
+<div align="center">
+
+### `04` — BUILDING PRINCIPLE
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3200&pause=1200&color=F6F1E8&center=true&vCenter=true&width=720&lines=Learn+%E2%86%92+Build+%E2%86%92+Ship+%E2%86%92+Improve;Consistency+creates+the+skill;Discipline+creates+the+momentum" />
+
+</div>
+
+---
+
+<div align="center">
+
+### `05` — PROJECTS
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+#### CURRENT
+Building the foundation
+
+</td>
+<td align="center" width="50%">
+
+#### NEXT
+Real-world software projects
+
+</td>
+</tr>
+</table>
+
+> Projects will be added here as they are built, tested and shipped.
+
+</div>
 
 ---
 
@@ -176,44 +168,43 @@ Review, improve, document and keep moving forward.
 
 ### `06` — ROADMAP
 
-</div>
-
 ```text
-2026
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-● SSC'26                    COMPLETE
-● GPA 5.00                  COMPLETE
-● CS Foundation             BUILDING
-● GitHub Portfolio          BUILDING
-
-2027
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-○ INTI • Malaysia
-○ Computer Science
-○ Programming
-○ Real-world Projects
-
-NEXT
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-○ Advanced CS
-○ Open Source
-○ Software Development
-○ Canada Transfer
+2026 ──────────────── ● Foundation
+                         │
+2027 ──────────────── ○ INTI • Malaysia
+                         │
+                         ▼
+                    Computer Science
+                         │
+                         ▼
+                    Real Projects
+                         │
+                         ▼
+                    Open Source
+                         │
+                         ▼
+NEXT ──────────────── ○ Canada pathway
 ```
 
+</div>
+
 ---
 
 <div align="center">
 
-### `07` — PROJECTS
+### `07` — CONNECT
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=38BDF8"/>
+<a href="https://github.com/arpon.official01">GitHub</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="https://instagram.com/arpon.official01">Instagram</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="https://x.com/arponofficial01">X / Twitter</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="https://t.me/arponofficial01">Telegram</a>
 
-<br>
+<br><br>
 
-**Projects are being built.**
-
-The repository will evolve alongside my Computer Science journey — from fundamentals and experiments to serious software projects.
+<img src="https://komarev.com/ghpvc/?username=arpon.official01&style=for-the-badge&color=111111&label=PROFILE+VIEWS" />
 
 </div>
 
@@ -221,43 +212,8 @@ The repository will evolve alongside my Computer Science journey — from fundam
 
 <div align="center">
 
-### `08` — PRINCIPLE
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:050505,35:0b0b0c,65:17110b,100:050505&animation=twinkling" />
 
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3500&pause=1200&color=FFFFFF&center=true&vCenter=true&width=550&lines=DISCIPLINE+%3E+MOTIVATION;CONSISTENCY+%3E+PERFECTION;BUILD+%3E+TALK" />
-
-<br><br>
-
-</div>
-
----
-
-<div align="center">
-
-### `09` — CONNECT
-
-<a href="https://github.com/arpon.official01">
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github"/>
-</a>
-<a href="https://instagram.com/arpon.official01">
-<img src="https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram"/>
-</a>
-<a href="https://x.com/arponofficial01">
-<img src="https://img.shields.io/badge/X-111827?style=for-the-badge&logo=x"/>
-</a>
-<a href="https://t.me/arponofficial01">
-<img src="https://img.shields.io/badge/Telegram-111827?style=for-the-badge&logo=telegram"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=arpon.official01&style=for-the-badge&color=0F172A&label=PROFILE+VIEWS"/>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:050505,50:111827,100:050505&animation=twinkling"/>
-
-**Building. Learning. Becoming.**
+### BUILDING. LEARNING. BECOMING.
 
 </div>
