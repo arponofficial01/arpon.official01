@@ -1,8 +1,8 @@
 ## 💫 About Me:
 
-<div align="center">
-  <img src="./Arpon.jpeg" width="180" alt="Arpon Chakraborty">
-</div>
+## 💫 About Me:
+
+<img align="left" src="./Arpon.jpeg" width="170" alt="Arpon Chakraborty" hspace="15" vspace="5" /><br clear="left"/>
 
 
 I'm Arpon Chakraborty, a student from Bangladesh interested in Artificial Intelligence, software development, and building practical digital products through AI-assisted coding.<br>Having completed my SSC in 2026 with a GPA of 5.00, I'm preparing for the next stage of my academic journey through the American Degree Transfer Program (ADTP) in Malaysia, with the long-term goal of pursuing Computer Science studies at a Canadian university.<br><br>🎓 Education & Future Goals<br>• 🇧🇩 SSC'26 Graduate — GPA 5.00<br>• 🇲🇾 Planning to pursue the American Degree Transfer Program (ADTP) at INTI International University/College.<br>• 💻 Interested in Computer Science, software development, and AI.<br>• 🇨🇦 Long-term goal: Transfer to a Canadian university to continue my studies in Computer Science.<br><br>🛠️ Interests & Projects<br>• Artificial Intelligence & AI-Assisted Development<br>• Web Applications & Digital Products<br>• Software Development & Vibe Coding<br>• Messaging, Communication & File-Sharing Systems<br><br>📍 Currently developing Shongjog, a messaging, calling, and file-sharing app concept designed with users in Bangladesh in mind.<br><br>📚 Current Focus<br>• Building projects with AI-powered development tools.<br>• Learning programming fundamentals and exploring modern web technologies.<br>• Understanding the technologies behind my projects.<br>• Preparing for my future studies in Computer Science.<br><br>🚀 My Vision<br>To build a strong foundation in Computer Science, develop practical technical skills, create useful digital products, and work toward a global career in technology.<br>Learning, building, and improving—one project at a time.<br><br>
@@ -23,16 +23,19 @@ I'm Arpon Chakraborty, a student from Bangladesh interested in Artificial Intell
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.shion.dev/api?username=arponofficial01\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=arponofficial01\&theme=dark\&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=arponofficial01\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=true\&layout=compact)
+<div align="center">
+  <img height="175" src="https://github-readme-stats.shion.dev/api?username=arponofficial01&theme=tokyonight&show_icons=true&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="175" src="https://github-readme-stats.shion.dev/api/top-langs/?username=arponofficial01&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</div>
 
-### 🔝 Top Contributed Repo
+<div align="center">
+  <img height="175" src="https://streak-stats.demolab.com/?user=arponofficial01&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak" />
+</div>
 
-- 🛕 **Manasa Mondir** — [View Repository](https://github.com/arponofficial01/Manasa-Mondir)
-- ☁️ **Cloud Storage** — [View Repository](https://github.com/arponofficial01/Cloud-Storage)
-- 🖼️ **Assets** — [View Assets](https://github.com/arponofficial01/arpon.official01/tree/main/assets)
-![](https://github-contributor-stats.vercel.app/api?username=arponofficial01\&limit=5\&theme=dark\&combine_all_yearly_contributions=true)
+<div align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=arponofficial01&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution Graph" />
+</div>
+
 
 ## 🏆 GitHub Trophies
 
