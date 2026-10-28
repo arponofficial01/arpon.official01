@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="WhatsApp%20Image%202026-09-14%20at%2012.57.36%20PM.jpg" width="180" alt="Arpon Chakraborty">
+</div>
+
 # 💫 About Me:
 
 <div align="center">
@@ -26,6 +30,13 @@ I'm Arpon Chakraborty, a student from Bangladesh interested in Artificial Intell
 ![](https://streak-stats.demolab.com/?user=arponofficial01\&theme=dark\&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=arponofficial01\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=true\&layout=compact)
 
+### 🔝 Top Contributed Repo
+
+- 🛕 **Manasa Mondir** — [View Repository](https://github.com/arponofficial01/Manasa-Mondir)
+- ☁️ **Cloud Storage** — [View Repository](https://github.com/arponofficial01/Cloud-Storage)
+- 🖼️ **Assets** — [View Assets](https://github.com/arponofficial01/arpon.official01/tree/main/assets)
+![](https://github-contributor-stats.vercel.app/api?username=arponofficial01\&limit=5\&theme=dark\&combine_all_yearly_contributions=true)
+
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=arponofficial01\&theme=radical\&no-frame=false\&no-bg=false\&margin-w=4)
@@ -34,12 +45,7 @@ I'm Arpon Chakraborty, a student from Bangladesh interested in Artificial Intell
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=gruvbox)
 
-### 🔝 Top Contributed Repo
 
-- 🛕 **Manasa Mondir** — [View Repository](https://github.com/arponofficial01/Manasa-Mondir)
-- ☁️ **Cloud Storage** — [View Repository](https://github.com/arponofficial01/Cloud-Storage)
-- 🖼️ **Assets** — [View Assets](https://github.com/arponofficial01/arpon.official01/tree/main/assets)
-![](https://github-contributor-stats.vercel.app/api?username=arponofficial01\&limit=5\&theme=dark\&combine_all_yearly_contributions=true)
 
 ---
 
