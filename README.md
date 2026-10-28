@@ -16,14 +16,37 @@ I'm Arpon Chakraborty, a student from Bangladesh interested in Artificial Intell
 
 ## 📌 My Repositories
 
-- 🛕 **Manasa Mondir** — [View Repository](https://github.com/arponofficial01/Manasa-Mondir)
-- ☁️ **Cloud Storage** — [View Repository](https://github.com/arponofficial01/Cloud-Storage)
-- 🖼️ **Assets** — [View Assets](https://github.com/arponofficial01/arpon.official01/tree/main/assets)
+<div align="center">
+  <a href="https://github.com/arponofficial01/Manasa-Mondir">
+    <img width="48%" src="https://github-readme-stats.shion.dev/api/pin/?username=arponofficial01&repo=Manasa-Mondir&theme=tokyonight&hide_border=true&border_radius=12&show_owner=true" alt="Manasa Mondir" />
+  </a>
+  <a href="https://github.com/arponofficial01/Cloud-Storage">
+    <img width="48%" src="https://github-readme-stats.shion.dev/api/pin/?username=arponofficial01&repo=Cloud-Storage&theme=tokyonight&hide_border=true&border_radius=12&show_owner=true" alt="Cloud Storage" />
+  </a>
+</div>
+
+<br/>
+
+| Project / Resource | Quick Access |
+| :--- | :---: |
+| 🛕 **Manasa Mondir** | <a href="https://github.com/arponofficial01/Manasa-Mondir"><img src="https://img.shields.io/badge/View_Repository-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" /></a> |
+| ☁️ **Cloud Storage** | <a href="https://github.com/arponofficial01/Cloud-Storage"><img src="https://img.shields.io/badge/View_Repository-7AA2F7?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" /></a> |
+| 🖼️ **Assets** | <a href="https://github.com/arponofficial01/arpon.official01/tree/main/assets"><img src="https://img.shields.io/badge/View_Assets-BB9AF7?style=for-the-badge&logo=github&logoColor=white" alt="View Assets" /></a> |
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=arponofficial01&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=arponofficial01&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=arponofficial01&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<div align="center">
+  <img height="175" src="https://github-readme-stats.shion.dev/api?username=arponofficial01&theme=tokyonight&show_icons=true&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="175" src="https://github-readme-stats.shion.dev/api/top-langs/?username=arponofficial01&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img height="175" src="https://streak-stats.demolab.com/?user=arponofficial01&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=arponofficial01&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution Graph" />
+</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=arponofficial01&theme=radical&no-frame=false&no-bg=false&margin-w=4)
