@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="WhatsApp%20Image%202026-09-14%20at%2012.57.36%20PM.jpg" width="180" alt="Arpon Chakraborty">
+  <img src="./arpon.jpg" width="180" alt="Arpon Chakraborty">
 </div>
 
 # 💫 About Me:
