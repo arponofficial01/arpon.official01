@@ -1,324 +1,37 @@
-# 💫 About Me
+
+## 💫 About Me:
+
+<div align="left">
+  <img src="./Arpon.jpeg" width="180" alt="Arpon Chakraborty">
+</div>
+
+I'm Arpon Chakraborty, a student from Bangladesh interested in Artificial Intelligence, software development, and building practical digital products through AI-assisted coding.<br>Having completed my SSC in 2026 with a GPA of 5.00, I'm preparing for the next stage of my academic journey through the American Degree Transfer Program (ADTP) in Malaysia, with the long-term goal of pursuing Computer Science studies at a Canadian university.<br><br>🎓 Education & Future Goals<br>•	🇧🇩 SSC'26 Graduate — GPA 5.00<br>•	🇲🇾 Planning to pursue the American Degree Transfer Program (ADTP) at INTI International University/College.<br>•	💻 Interested in Computer Science, software development, and AI.<br>•	🇨🇦 Long-term goal: Transfer to a Canadian university to continue my studies in Computer Science.<br><br>🛠️ Interests & Projects<br>•	Artificial Intelligence & AI-Assisted Development<br>•	Web Applications & Digital Products<br>•	Software Development & Vibe Coding<br>•	Messaging, Communication & File-Sharing Systems<br><br>📍Currently developing Shongjog, a messaging, calling, and file-sharing app concept designed with users in Bangladesh in mind.<br><br>📚 Current Focus<br>•	Building projects with AI-powered development tools.<br>•	Learning programming fundamentals and exploring modern web technologies.<br>•	Understanding the technologies behind my projects.<br>•	Preparing for my future studies in Computer Science.<br><br>🚀 My Vision<br>To build a strong foundation in Computer Science, develop practical technical skills, create useful digital products, and work toward a global career in technology.<br>Learning, building, and improving—one project at a time.<br><br>
 
 
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/*  https://discord.gg/WHK8mNhCy) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/arpon.official01) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arpon.official01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arponofficial01) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@arpon.official01) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/arponofficial01) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://youtube.com/@arpon.official01?si=reU5Pb3XxXAlLKIb) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arpon.official01@gmail.com) 
 
-&lt;img align=&quot;left&quot; src=&quot;./Arpon.jpeg&quot; width=&quot;180&quot; alt=&quot;Arpon Chakraborty&quot; hspace=&quot;20&quot; vspace=&quot;10&quot; /&gt;
+# 💻 Tech Stack:
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
 
+## 📌 My Repositories
 
+- 🛕 **Manasa Mondir** — [View Repository](https://github.com/arponofficial01/Manasa-Mondir)
+- ☁️ **Cloud Storage** — [View Repository](https://github.com/arponofficial01/Cloud-Storage)
+- 🖼️ **Assets** — [View Assets](https://github.com/arponofficial01/arpon.official01/tree/main/assets)
 
-I'm **Arpon Chakraborty**, a student from Bangladesh interested in **Artificial Intelligence**, **software development**, and building practical digital products through AI-assisted coding.
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=arponofficial01&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=arponofficial01&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=arponofficial01&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=arponofficial01&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-
-Having completed my **SSC in 2026 with a GPA of 5.00**, I'm preparing for the next stage of my academic journey through the **American Degree Transfer Program (ADTP)** in Malaysia, with the long-term goal of pursuing **Computer Science** studies at a Canadian university.
-
-
-
-📍 **Current Project:** Developing **Shongjog**, a messaging, calling, and file-sharing app concept designed with users in Bangladesh in mind.
-
-
-
-&lt;br clear=&quot;left&quot;/&gt;
-
-
-
----
-
-
-
-### 🎓 Education & Future Goals
-
-
-
-- 🇧🇩 **SSC'26 Graduate** — Achieved **GPA 5.00**
-
-- 🇲🇾 **Next Step:** Planning to pursue the **American Degree Transfer Program (ADTP)** at INTI International University/College
-
-- 💻 **Core Academic Interest:** Computer Science, Software Engineering & Artificial Intelligence
-
-- 🇨🇦 **Long-Term Goal:** Transfer to a Canadian university to complete my degree in Computer Science
-
-
-
-### 🛠️ Interests & Projects
-
-
-
-- **Artificial Intelligence** & AI-Assisted Development
-
-- **Web Applications** & Practical Digital Products
-
-- **Software Development** & Vibe Coding
-
-- **Messaging, Communication & File-Sharing Systems**
-
-
-
-### 📚 Current Focus
-
-
-
-- Building real-world projects with AI-powered development tools
-
-- Learning programming fundamentals and exploring modern web technologies
-
-- Understanding the architecture and technologies behind my projects
-
-- Preparing academically and technically for future studies in Computer Science
-
-
-
-### 🚀 My Vision
-
-
-
-> To build a strong foundation in Computer Science, develop practical technical skills, create useful digital products, and work toward a global career in technology.
-
->
-
-> **Learning, building, and improving — one project at a time.**
-
-
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ---
+[![](https://komarev.com/ghpvc/?username=arponofficial01&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-
-# 🚀 My Repositories
-
-
-
-&lt;p align=&quot;left&quot;&gt;
-
-  &lt;a href=&quot;https://github.com/arponofficial01/Cloud-Storage&quot;&gt;
-
-    &lt;img src=&quot;https://img.shields.io/badge/Cloud_Storage-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white&quot; alt=&quot;Cloud Storage&quot; /&gt;
-
-  &lt;/a&gt;
-
-  &lt;a href=&quot;https://github.com/arponofficial01/Manasa-Mondir&quot;&gt;
-
-    &lt;img src=&quot;https://img.shields.io/badge/Manasa_Mondir-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white&quot; alt=&quot;Manasa Mondir&quot; /&gt;
-
-  &lt;/a&gt;
-
-  &lt;a href=&quot;https://github.com/arponofficial01&quot;&gt;
-
-    &lt;img src=&quot;https://img.shields.io/badge/Shongjog-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white&quot; alt=&quot;Shongjog&quot; /&gt;
-
-  &lt;/a&gt;
-
-&lt;/p&gt;
-
-
-
----
-
-
-
-# 🌐 Socials
-
-
-
-&lt;p align=&quot;left&quot;&gt;
-
-  &lt;a href=&quot;https://discord.gg/WHK8mNhCy&quot;&gt;
-
-    &lt;img src=&quot;https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&amp;logo=discord&amp;logoColor=white&quot; alt=&quot;Discord&quot; /&gt;
-
-  &lt;/a&gt;
-
-  &lt;a href=&quot;https://facebook.com/arpon.official01&quot;&gt;
-
-    &lt;img src=&quot;https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&amp;logo=facebook&amp;logoColor=white&quot; alt=&quot;Facebook&quot; /&gt;
-
-  &lt;/a&gt;
-
-  &lt;a href=&quot;https://instagram.com/arpon.official01&quot;&gt;
-
-    &lt;img src=&quot;https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white&quot; alt=&quot;Instagram&quot; /&gt;
-
-  &lt;/a&gt;
-
-  &lt;a href=&quot;https://linkedin.com/in/arponofficial01&quot;&gt;
-
-    &lt;img src=&quot;https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white&quot; alt=&quot;LinkedIn&quot; /&gt;
-
-  &lt;/a&gt;
-
-  &lt;a href=&quot;https://tiktok.com/@arpon.official01&quot;&gt;
-
-    &lt;img src=&quot;https://img.shields.io/badge/TikTok-000000?style=for-the-badge&amp;logo=tiktok&amp;logoColor=white&quot; alt=&quot;TikTok&quot; /&gt;
-
-  &lt;/a&gt;
-
-  &lt;a href=&quot;https://x.com/arponofficial01&quot;&gt;
-
-    &lt;img src=&quot;https://img.shields.io/badge/X-000000?style=for-the-badge&amp;logo=x&amp;logoColor=white&quot; alt=&quot;X&quot; /&gt;
-
-  &lt;/a&gt;
-
-  &lt;a href=&quot;https://youtube.com/@arpon.official01&quot;&gt;
-
-    &lt;img src=&quot;https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&amp;logo=youtube&amp;logoColor=white&quot; alt=&quot;YouTube&quot; /&gt;
-
-  &lt;/a&gt;
-
-  &lt;a href=&quot;mailto:arpon.official01@gmail.com&quot;&gt;
-
-    &lt;img src=&quot;https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white&quot; alt=&quot;Email&quot; /&gt;
-
-  &lt;/a&gt;
-
-&lt;/p&gt;
-
-
-
----
-
-
-
-# 💻 Tech Stack
-
-
-
-### Frontend & Mobile
-
-&lt;p align=&quot;left&quot;&gt;
-
-  &lt;img src=&quot;https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB&quot; alt=&quot;React&quot; /&gt;
-
-  &lt;img src=&quot;https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB&quot; alt=&quot;React Native&quot; /&gt;
-
-  &lt;img src=&quot;https://img.shields.io/badge/Next.js-000000?style=for-the-badge&amp;logo=next.js&amp;logoColor=white&quot; alt=&quot;Next.js&quot; /&gt;
-
-  &lt;img src=&quot;https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&amp;logo=vite&amp;logoColor=white&quot; alt=&quot;Vite&quot; /&gt;
-
-  &lt;img src=&quot;https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&amp;logo=tailwind-css&amp;logoColor=white&quot; alt=&quot;TailwindCSS&quot; /&gt;
-
-&lt;/p&gt;
-
-
-
-### Backend & Frameworks
-
-&lt;p align=&quot;left&quot;&gt;
-
-  &lt;img src=&quot;https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&amp;logo=node.js&amp;logoColor=white&quot; alt=&quot;Node.js&quot; /&gt;
-
-  &lt;img src=&quot;https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&amp;logo=express&amp;logoColor=61DAFB&quot; alt=&quot;Express.js&quot; /&gt;
-
-  &lt;img src=&quot;https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&amp;logo=.net&amp;logoColor=white&quot; alt=&quot;.NET&quot; /&gt;
-
-  &lt;img src=&quot;https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&amp;logo=laravel&amp;logoColor=white&quot; alt=&quot;Laravel&quot; /&gt;
-
-&lt;/p&gt;
-
-
-
-### Databases & Cloud
-
-&lt;p align=&quot;left&quot;&gt;
-
-  &lt;img src=&quot;https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white&quot; alt=&quot;MongoDB&quot; /&gt;
-
-  &lt;img src=&quot;https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white&quot; alt=&quot;MySQL&quot; /&gt;
-
-  &lt;img src=&quot;https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white&quot; alt=&quot;PostgreSQL&quot; /&gt;
-
-  &lt;img src=&quot;https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&amp;logo=supabase&amp;logoColor=white&quot; alt=&quot;Supabase&quot; /&gt;
-
-  &lt;img src=&quot;https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&amp;logo=Firebase&amp;logoColor=white&quot; alt=&quot;Firebase&quot; /&gt;
-
-  &lt;img src=&quot;https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&amp;logo=google-cloud&amp;logoColor=white&quot; alt=&quot;Google Cloud&quot; /&gt;
-
-  &lt;img src=&quot;https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&amp;logo=Cloudflare&amp;logoColor=white&quot; alt=&quot;Cloudflare&quot; /&gt;
-
-  &lt;img src=&quot;https://img.shields.io/badge/Vercel-000000?style=for-the-badge&amp;logo=vercel&amp;logoColor=white&quot; alt=&quot;Vercel&quot; /&gt;
-
-  &lt;img src=&quot;https://img.shields.io/badge/Netlify-000000?style=for-the-badge&amp;logo=netlify&amp;logoColor=00C7B7&quot; alt=&quot;Netlify&quot; /&gt;
-
-&lt;/p&gt;
-
-
-
-### Tools & Design
-
-&lt;p align=&quot;left&quot;&gt;
-
-  &lt;img src=&quot;https://img.shields.io/badge/Git-F05033?style=for-the-badge&amp;logo=git&amp;logoColor=white&quot; alt=&quot;Git&quot; /&gt;
-
-  &lt;img src=&quot;https://img.shields.io/badge/GitHub-121011?style=for-the-badge&amp;logo=github&amp;logoColor=white&quot; alt=&quot;GitHub&quot; /&gt;
-
-  &lt;img src=&quot;https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&amp;logo=npm&amp;logoColor=white&quot; alt=&quot;NPM&quot; /&gt;
-
-  &lt;img src=&quot;https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&amp;logo=figma&amp;logoColor=white&quot; alt=&quot;Figma&quot; /&gt;
-
-&lt;/p&gt;
-
-
-
----
-
-
-
-# 📊 GitHub Stats
-
-
-
-&lt;div align=&quot;center&quot;&gt;
-
-  &lt;img height=&quot;175&quot; src=&quot;https://github-readme-stats.shion.dev/api?username=arponofficial01&amp;theme=tokyonight&amp;show_icons=true&amp;hide_border=true&amp;border_radius=12&amp;include_all_commits=true&amp;count_private=true&quot; alt=&quot;GitHub Stats&quot; /&gt;
-
-  &lt;img height=&quot;175&quot; src=&quot;https://github-readme-stats.shion.dev/api/top-langs/?username=arponofficial01&amp;theme=tokyonight&amp;hide_border=true&amp;border_radius=12&amp;include_all_commits=true&amp;count_private=true&amp;layout=compact&quot; alt=&quot;Top Languages&quot; /&gt;
-
-&lt;/div&gt;
-
-
-
-&lt;div align=&quot;center&quot;&gt;
-
-  &lt;img height=&quot;175&quot; src=&quot;https://streak-stats.demolab.com/?user=arponofficial01&amp;theme=tokyonight&amp;hide_border=true&amp;border_radius=12&quot; alt=&quot;GitHub Streak&quot; /&gt;
-
-&lt;/div&gt;
-
-
-
-&lt;div align=&quot;center&quot;&gt;
-
-  &lt;img width=&quot;95%&quot; src=&quot;https://github-readme-activity-graph.vercel.app/graph?username=arponofficial01&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true&amp;custom_title=Contribution%20Activity&quot; alt=&quot;Contribution Graph&quot; /&gt;
-
-&lt;/div&gt;
-
-
-
----
-
-
-
-# 🏆 GitHub Trophies
-
-
-
-&lt;div align=&quot;center&quot;&gt;
-
-  &lt;img src=&quot;https://github-profile-trophy.vercel.app/?username=arponofficial01&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;margin-w=8&amp;row=1&quot; alt=&quot;GitHub Trophies&quot; /&gt;
-
-&lt;/div&gt;
-
-
-
----
-
-
-
-# ✍️ Random Dev Quote
-
-
-
-&lt;div align=&quot;center&quot;&gt;
-
-  &lt;img src=&quot;https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=tokyonight&quot; alt=&quot;Random Dev Quote&quot; /&gt;
-
-&lt;/div&gt;
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
